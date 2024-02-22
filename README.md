@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IGallupSoCo
+- 👋 Hi, I’m Isaac.  I'm a consulting QA Enginner based out of The So Company.
 - 📫 How to reach me : Slack
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I was a zookeeper for eight years before I pivoted into a software test engineer position!
