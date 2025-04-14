@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isaac.  I'm a consulting QA Enginner based out of The So Company.
+- 👋 Hi, I’m Isaac.  I'm a consulting QA Engineer based out of The So Company.
 - 📫 How to reach me : Slack
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I was a zookeeper for eight years!  I've been in software QA since August 2021.
